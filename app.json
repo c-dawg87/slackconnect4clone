@@ -12,8 +12,8 @@
     "game"
   ],
   "env": {
-    "SLACK_CONNECT_4_BOT_TOKEN": {
-      "description": "xoxb-251950201526-d48RtXVmAmAD0Jzh7Aia6IAz",
+    "xoxb-251950201526-d48RtXVmAmAD0Jzh7Aia6IAz": {
+      "description": "Slack bot API token",
       "required": true
     }
   }
